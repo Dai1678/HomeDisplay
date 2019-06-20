@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    
+    <color name="colorClearSky">#60ff8a65</color>
+    <color name="colorSky">#60ffcc80</color>
+    <color name="colorCloud">#e0e0e0</color>
+    <color name="colorShowerRain">#6080deea</color>
+    <color name="colorRain">#6090caf9</color>
+    <color name="colorThunderstorm">#609fa8da</color>
+    <color name="colorSnow">#e0f7fa</color>
+
+</resources>

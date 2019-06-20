@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/nav_graph"
+            app:startDestination="@id/myRoomFragment">
+
+    <fragment android:id="@+id/myRoomFragment"
+              android:name="com.dai1678.homedisplay.ui.myroom.MyRoomFragment"
+              android:label="my_room_fragment"
+              tools:layout="@layout/my_room_fragment"/>
+</navigation>
